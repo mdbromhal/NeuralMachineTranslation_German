@@ -10,3 +10,5 @@ Ex) "Hello, I am a student" --> '[UNK] ist ein [UNK]'
 - Compared to Google translate: Hallo, ich bin Student!
 
 - So, there are some improvements that need to be made, as discussed at the end of the ipynb file
+
+**References**: Géron, A. (2023). Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems. O’Reilly Media. 
