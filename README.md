@@ -1,6 +1,8 @@
 # NeuralMachineTranslation_German
 ABSTRACT: Using Neural Machine Translation to Translate Between German &amp; English
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 - Cleaning the data file
 - Vectorizing each character (to help the model understand the characters: computers only understand numbers)
 - Encoder & Decoder
